@@ -1,2 +1,2 @@
 ## onlyfans clone
-A react native only fans clone using aws
+A react native onlyfans clone using aws
